@@ -1,0 +1,30 @@
+{
+  "hoistedDependencies": {
+    "whatwg-fetch@3.6.20": {
+      "whatwg-fetch": "private"
+    }
+  },
+  "hoistPattern": [
+    "*"
+  ],
+  "included": {
+    "dependencies": true,
+    "devDependencies": true,
+    "optionalDependencies": true
+  },
+  "injectedDeps": {},
+  "layoutVersion": 5,
+  "nodeLinker": "isolated",
+  "packageManager": "pnpm@11.7.0",
+  "pendingBuilds": [],
+  "publicHoistPattern": [],
+  "prunedAt": "Fri, 10 Jul 2026 17:57:57 GMT",
+  "registries": {
+    "default": "https://registry.npmjs.org/",
+    "@jsr": "https://npm.jsr.io/"
+  },
+  "skipped": [],
+  "storeDir": "C:\\Users\\Naveedahamed.d\\AppData\\Local\\pnpm\\store\\v11",
+  "virtualStoreDir": "C:\\Users\\Naveedahamed.d\\OneDrive - HCL TECHNOLOGIES LIMITED\\Documents\\Health care Advisor\\node_modules\\.pnpm",
+  "virtualStoreDirMaxLength": 60
+}
