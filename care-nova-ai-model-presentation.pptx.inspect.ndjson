@@ -1,0 +1,304 @@
+{"kind":"deck","id":"pr/i8r5mh","name":"Deck"}
+{"kind":"layout","layoutId":"9a36dec5-de9a-446b-b975-a2f73543b063","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"5b7f904d-547d-48ab-8f12-f99fa10ee008","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/tdkbfo","slide":1,"title":"HEALTHCARE AI DEMO","textShapes":7}
+{"kind":"shape","id":"sh/kzupwb2h","slide":1,"name":"cover-content-panel","bbox":[32,36,412,636]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":1,"name":"cover-eyebrow","text":"HEALTHCARE AI DEMO","textPreview":"HEALTHCARE AI DEMO","textChars":18,"textLines":1,"bbox":[52,56,360,24]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":1,"name":"cover-title","text":"Care Nova AI","textPreview":"Care Nova AI","textChars":12,"textLines":1,"bbox":[52,94,392,70]}
+{"kind":"shape","id":"sh/9w3m94fu","slide":1,"name":"cover-line","bbox":[52,196,102,5]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":1,"name":"cover-subtitle","text":"A local-first multi-agent healthcare RAG platform.","textPreview":"A local-first multi-agent healthcare RAG platform.","textChars":50,"textLines":1,"bbox":[52,212,348,124]}
+{"kind":"shape","id":"sh/rqd4vmtw","slide":1,"name":"cover-key-line-1","bbox":[52,426,5,22]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":1,"name":"cover-key-text-1","text":"Turns fragmented patient data into one next step","textPreview":"Turns fragmented patient data into one next step","textChars":48,"textLines":1,"bbox":[74,422,320,42]}
+{"kind":"shape","id":"sh/94fu18jq","slide":1,"name":"cover-key-line-2","bbox":[52,496,5,22]}
+{"kind":"textbox","id":"sh/kjm1cfa9","slide":1,"name":"cover-key-text-2","text":"Memory, retrieval, and specialist agents","textPreview":"Memory, retrieval, and specialist agents","textChars":40,"textLines":1,"bbox":[74,492,320,42]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":1,"name":"cover-key-line-3","bbox":[52,566,5,22]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":1,"name":"cover-key-text-3","text":"Safety-checked by default","textPreview":"Safety-checked by default","textChars":25,"textLines":1,"bbox":[74,562,320,42]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":1,"name":"cover-footer","text":"Cloud access is optional, not required.","textPreview":"Cloud access is optional, not required.","textChars":39,"textLines":1,"bbox":[52,642,372,20]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":1,"name":"cover-desktop-backplate","bbox":[488,48,752,626]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":1,"name":"cover-desktop-frame","bbox":[500,60,728,602]}
+{"kind":"image","id":"im/o7qpg3ex","slide":1,"name":"","geometry":"roundRect","alt":"Care Nova AI desktop application screenshot","bbox":[500,60,728,602]}
+{"kind":"notes","id":"nt/tdkbfo","slide":1,"text":""}
+{"kind":"slide","id":"sl/cui1ia","slide":2,"title":"APPLICATION","textShapes":19}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":2,"name":"eyebrow-APPLICATION","text":"APPLICATION","textPreview":"APPLICATION","textChars":11,"textLines":1,"bbox":[52,42,220,24]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":2,"name":"title-From fragmented care data to one next step","text":"From fragmented care data to one next step","textPreview":"From fragmented care data to one next step","textChars":42,"textLines":1,"bbox":[52,74,1080,64]}
+{"kind":"shape","id":"sh/83itgfml","slide":2,"name":"header-line-From fragmented care data to one next step","bbox":[52,148,104,4]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":2,"name":"subtitle-From fragmented care data to one next step","text":"Scattered care context becomes one focused, safety-checked response.","textPreview":"Scattered care context becomes one focused, safety-checked response.","textChars":68,"textLines":1,"bbox":[52,164,1120,38]}
+{"kind":"shape","id":"sh/m94fu18j","slide":2,"name":"application-input-panel","bbox":[36,214,458,412]}
+{"kind":"shape","id":"sh/x0nuxc3y","slide":2,"name":"application-input-line","bbox":[68,238,86,5]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":2,"name":"application-input-title","text":"What comes in","textPreview":"What comes in","textChars":13,"textLines":1,"bbox":[68,264,220,34]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":2,"name":"application-input-body","text":"Healthcare context is usually scattered.","textPreview":"Healthcare context is usually scattered.","textChars":40,"textLines":1,"bbox":[68,306,330,46]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":2,"name":"application-input-pill-1-panel","bbox":[68,372,150,34]}
+{"kind":"textbox","id":"sh/gbq1oryt","slide":2,"name":"application-input-pill-1-text","text":"Symptoms","textPreview":"Symptoms","textChars":8,"textLines":1,"bbox":[68,374,150,30]}
+{"kind":"shape","id":"sh/5wjudg7a","slide":2,"name":"application-input-pill-2-panel","bbox":[246,372,150,34]}
+{"kind":"textbox","id":"sh/y90je9cv","slide":2,"name":"application-input-pill-2-text","text":"Vitals","textPreview":"Vitals","textChars":6,"textLines":1,"bbox":[246,374,150,30]}
+{"kind":"shape","id":"sh/nuxc3ylc","slide":2,"name":"application-input-pill-3-panel","bbox":[68,424,150,34]}
+{"kind":"textbox","id":"sh/gn29gr2p","slide":2,"name":"application-input-pill-3-text","text":"Medicines","textPreview":"Medicines","textChars":9,"textLines":1,"bbox":[68,426,150,30]}
+{"kind":"shape","id":"sh/58z25kb6","slide":2,"name":"application-input-pill-4-panel","bbox":[246,424,150,34]}
+{"kind":"textbox","id":"sh/yhgn29gr","slide":2,"name":"application-input-pill-4-text","text":"Labs","textPreview":"Labs","textChars":4,"textLines":1,"bbox":[246,426,150,30]}
+{"kind":"shape","id":"sh/n29gr2p8","slide":2,"name":"application-input-pill-5-panel","bbox":[68,476,150,34]}
+{"kind":"textbox","id":"sh/czed8v6p","slide":2,"name":"application-input-pill-5-text","text":"Records","textPreview":"Records","textChars":7,"textLines":1,"bbox":[68,478,150,30]}
+{"kind":"shape","id":"sh/5kb6xkf6","slide":2,"name":"application-input-pill-6-panel","bbox":[246,476,150,34]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":2,"name":"application-input-pill-6-text","text":"Insurance","textPreview":"Insurance","textChars":9,"textLines":1,"bbox":[246,478,150,30]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":2,"name":"application-input-close","text":"Users struggle to turn this into one safe action.","textPreview":"Users struggle to turn this into one safe action.","textChars":49,"textLines":1,"bbox":[68,544,340,44]}
+{"kind":"shape","id":"sh/r65wjudg","slide":2,"name":"application-output-panel","bbox":[530,214,698,412]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":2,"name":"application-output-line","bbox":[562,238,86,5]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":2,"name":"application-output-title","text":"What comes out","textPreview":"What comes out","textChars":14,"textLines":1,"bbox":[562,264,240,34]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":2,"name":"application-output-hero","text":"One focused,\nsafety-checked next step.","textPreview":"One focused, | safety-checked next step.","textChars":38,"textLines":2,"bbox":[562,316,610,92]}
+{"kind":"shape","id":"sh/nih4byhg","slide":2,"name":"application-output-bullet-icon-562-432","bbox":[562,440,16,16]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":2,"name":"application-output-bullet-text-562-432","text":"Relevant risk level","textPreview":"Relevant risk level","textChars":19,"textLines":1,"bbox":[592,432,300,36]}
+{"kind":"shape","id":"sh/9s36hcrm","slide":2,"name":"application-output-bullet-icon-562-474","bbox":[562,482,16,16]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":2,"name":"application-output-bullet-text-562-474","text":"Evidence-backed reason","textPreview":"Evidence-backed reason","textChars":22,"textLines":1,"bbox":[592,474,300,36]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":2,"name":"application-output-bullet-icon-562-516","bbox":[562,524,16,16]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":2,"name":"application-output-bullet-text-562-516","text":"Focused next action","textPreview":"Focused next action","textChars":19,"textLines":1,"bbox":[592,516,300,36]}
+{"kind":"textbox","id":"sh/svu9knih","slide":2,"name":"application-output-close","text":"Not a broad answer. A guided next step.","textPreview":"Not a broad answer. A guided next step.","textChars":39,"textLines":1,"bbox":[562,562,350,28]}
+{"kind":"shape","id":"sh/hgn29gr2","slide":2,"name":"app-footer-card","bbox":[36,648,1192,46]}
+{"kind":"shape","id":"sh/a1gvy90j","slide":2,"name":"app-bottom-line","bbox":[52,668,96,5]}
+{"kind":"textbox","id":"sh/zidonyd0","slide":2,"name":"app-bottom-text","text":"Care Nova organizes context before it answers.","textPreview":"Care Nova organizes context before it answers.","textChars":46,"textLines":1,"bbox":[168,660,1040,24]}
+{"kind":"notes","id":"nt/cui1ia","slide":2,"text":""}
+{"kind":"slide","id":"sl/p4fx72","slide":3,"title":"MODEL WORKFLOW","textShapes":19}
+{"kind":"textbox","id":"sh/bq1oryts","slide":3,"name":"eyebrow-MODEL WORKFLOW","text":"MODEL WORKFLOW","textPreview":"MODEL WORKFLOW","textChars":14,"textLines":1,"bbox":[52,42,220,24]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":3,"name":"title-Why it is not a normal chatbot","text":"Why it is not a normal chatbot","textPreview":"Why it is not a normal chatbot","textChars":30,"textLines":1,"bbox":[52,74,1120,64]}
+{"kind":"shape","id":"sh/twra5gbq","slide":3,"name":"header-line-Why it is not a normal chatbot","bbox":[52,148,104,4]}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":3,"name":"subtitle-Why it is not a normal chatbot","text":"A generic chatbot answers once. Care Nova checks, routes, and guards first.","textPreview":"A generic chatbot answers once. Care Nova checks, routes, and guards first.","textChars":75,"textLines":1,"bbox":[52,164,1120,38]}
+{"kind":"shape","id":"sh/b2hwfyxo","slide":3,"name":"workflow-spine","bbox":[82,236,2,348]}
+{"kind":"shape","id":"sh/4nap4r65","slide":3,"name":"workflow-step-1-panel","bbox":[54,224,56,40]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":3,"name":"workflow-step-1-text","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[54,226,56,36]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":3,"name":"workflow-step-title-1","text":"Patient input","textPreview":"Patient input","textChars":13,"textLines":1,"bbox":[140,226,380,26]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":3,"name":"workflow-step-body-1","text":"Symptom, reading, medicine question, or care request enters.","textPreview":"Symptom, reading, medicine question, or care request enters.","textChars":60,"textLines":1,"bbox":[140,254,392,36]}
+{"kind":"shape","id":"sh/ji5snelo","slide":3,"name":"workflow-step-2-panel","bbox":[54,296,56,40]}
+{"kind":"textbox","id":"sh/uxc3ylc7","slide":3,"name":"workflow-step-2-text","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[54,298,56,36]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":3,"name":"workflow-step-title-2","text":"Memory load","textPreview":"Memory load","textChars":11,"textLines":1,"bbox":[140,298,380,26]}
+{"kind":"textbox","id":"sh/c3ylc7u5","slide":3,"name":"workflow-step-body-2","text":"Recent patient context reloads before analysis starts.","textPreview":"Recent patient context reloads before analysis starts.","textChars":54,"textLines":1,"bbox":[140,326,392,36]}
+{"kind":"shape","id":"sh/j6tovaho","slide":3,"name":"workflow-step-3-panel","bbox":[54,368,56,40]}
+{"kind":"textbox","id":"sh/ulwval87","slide":3,"name":"workflow-step-3-text","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[54,370,56,36]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":3,"name":"workflow-step-title-3","text":"Intent classify","textPreview":"Intent classify","textChars":15,"textLines":1,"bbox":[140,370,380,26]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":3,"name":"workflow-step-body-3","text":"The request is routed into the correct care path.","textPreview":"The request is routed into the correct care path.","textChars":49,"textLines":1,"bbox":[140,398,392,36]}
+{"kind":"shape","id":"sh/j2t83itg","slide":3,"name":"workflow-step-4-panel","bbox":[54,440,56,40]}
+{"kind":"textbox","id":"sh/qh0fepkz","slide":3,"name":"workflow-step-4-text","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[54,442,56,36]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":3,"name":"workflow-step-title-4","text":"Evidence + specialist","textPreview":"Evidence + specialist","textChars":21,"textLines":1,"bbox":[140,442,380,26]}
+{"kind":"textbox","id":"sh/7qpg3ex0","slide":3,"name":"workflow-step-body-4","text":"Local evidence and specialist workflow shape the answer.","textPreview":"Local evidence and specialist workflow shape the answer.","textChars":56,"textLines":1,"bbox":[140,470,392,36]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":3,"name":"workflow-step-5-panel","bbox":[54,512,56,40]}
+{"kind":"textbox","id":"sh/pwb2hwfy","slide":3,"name":"workflow-step-5-text","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[54,514,56,36]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":3,"name":"workflow-step-title-5","text":"Safety-checked reply","textPreview":"Safety-checked reply","textChars":20,"textLines":1,"bbox":[140,514,380,26]}
+{"kind":"textbox","id":"sh/7y1kre1w","slide":3,"name":"workflow-step-body-5","text":"Guardrails check the response before it is shown.","textPreview":"Guardrails check the response before it is shown.","textChars":49,"textLines":1,"bbox":[140,542,392,36]}
+{"kind":"shape","id":"sh/wjudg7ad","slide":3,"name":"example-route-card-backplate","bbox":[604,208,636,414]}
+{"kind":"shape","id":"sh/p4r65wju","slide":3,"name":"example-route-card-frame","bbox":[616,220,612,390]}
+{"kind":"shape","id":"sh/72x4nap4","slide":3,"name":"workflow-close-panel","bbox":[52,624,1176,48]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":3,"name":"workflow-close-line","bbox":[68,644,96,5]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":3,"name":"workflow-close-text","text":"The reply is shaped by workflow, not by one free-form prompt.","textPreview":"The reply is shaped by workflow, not by one free-form prompt.","textChars":61,"textLines":1,"bbox":[184,638,1016,24]}
+{"kind":"image","id":"im/tsvu9kni","slide":3,"name":"","geometry":"roundRect","alt":"Care Nova AI route review screenshot","bbox":[616,220,612,390]}
+{"kind":"notes","id":"nt/p4fx72","slide":3,"text":""}
+{"kind":"slide","id":"sl/cixby5","slide":4,"title":"SYSTEM DESIGN","textShapes":21}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":4,"name":"eyebrow-SYSTEM DESIGN","text":"SYSTEM DESIGN","textPreview":"SYSTEM DESIGN","textChars":13,"textLines":1,"bbox":[52,42,220,24]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":4,"name":"title-Each request is routed to the right specialist path","text":"Each request is routed to the right specialist path","textPreview":"Each request is routed to the right specialist path","textChars":51,"textLines":1,"bbox":[52,74,1176,64]}
+{"kind":"shape","id":"sh/8z25kb6x","slide":4,"name":"header-line-Each request is routed to the right specialist path","bbox":[52,148,104,4]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":4,"name":"subtitle-Each request is routed to the right specialist path","text":"Single model? No. Agentic? Yes. RAG? Yes, with memory and safety.","textPreview":"Single model? No. Agentic? Yes. RAG? Yes, with memory and safety.","textChars":65,"textLines":1,"bbox":[52,164,1120,38]}
+{"kind":"shape","id":"sh/q1orytsv","slide":4,"name":"router-callout-line","bbox":[52,228,6,310]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":4,"name":"router-callout-title","text":"System, not a flat chatbot call.","textPreview":"System, not a flat chatbot call.","textChars":32,"textLines":1,"bbox":[78,226,238,86]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":4,"name":"router-callout-body","text":"The workflow reloads memory, classifies intent, selects a specialist path, retrieves evidence, and then checks safety.","textPreview":"The workflow reloads memory, classifies intent, selects a specialist path, retrieves evidence, and then checks safety.","textChars":118,"textLines":1,"bbox":[78,322,238,140]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":4,"name":"router-label-Single model","text":"Single model","textPreview":"Single model","textChars":12,"textLines":1,"bbox":[78,488,124,24]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":4,"name":"router-value-Single model","text":"No","textPreview":"No","textChars":2,"textLines":1,"bbox":[214,488,130,24]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":4,"name":"router-label-Agentic","text":"Agentic","textPreview":"Agentic","textChars":7,"textLines":1,"bbox":[78,522,124,24]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":4,"name":"router-value-Agentic","text":"Yes","textPreview":"Yes","textChars":3,"textLines":1,"bbox":[214,522,130,24]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":4,"name":"router-label-RAG","text":"RAG","textPreview":"RAG","textChars":3,"textLines":1,"bbox":[78,556,124,24]}
+{"kind":"textbox","id":"sh/zupwb2hw","slide":4,"name":"router-value-RAG","text":"Yes, memory + safety","textPreview":"Yes, memory + safety","textChars":20,"textLines":1,"bbox":[214,556,130,24]}
+{"kind":"shape","id":"sh/orytsvu9","slide":4,"name":"specialist-route-1","bbox":[372,226,404,136]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":4,"name":"specialist-route-line-1","bbox":[400,248,76,5]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":4,"name":"specialist-route-title-1","text":"RAG Agent","textPreview":"RAG Agent","textChars":9,"textLines":1,"bbox":[400,274,348,32]}
+{"kind":"textbox","id":"sh/z61032ls","slide":4,"name":"specialist-route-body-1","text":"Grounds general medical answers in local healthcare evidence.","textPreview":"Grounds general medical answers in local healthcare evidence.","textChars":61,"textLines":1,"bbox":[400,312,348,34]}
+{"kind":"shape","id":"sh/oza1gvy9","slide":4,"name":"specialist-route-2","bbox":[796,226,412,136]}
+{"kind":"shape","id":"sh/hk3q5o7q","slide":4,"name":"specialist-route-line-2","bbox":[824,248,76,5]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":4,"name":"specialist-route-title-2","text":"Pharmacy Agent","textPreview":"Pharmacy Agent","textChars":14,"textLines":1,"bbox":[824,274,356,32]}
+{"kind":"textbox","id":"sh/8bat47y1","slide":4,"name":"specialist-route-body-2","text":"Handles medicine questions with medication-specific safety checks.","textPreview":"Handles medicine questions with medication-specific safety checks.","textChars":66,"textLines":1,"bbox":[824,312,356,34]}
+{"kind":"shape","id":"sh/jqh0fepk","slide":4,"name":"specialist-route-3","bbox":[372,390,404,136]}
+{"kind":"shape","id":"sh/q5o7qpg3","slide":4,"name":"specialist-route-line-3","bbox":[400,412,76,5]}
+{"kind":"textbox","id":"sh/18jqh0fe","slide":4,"name":"specialist-route-title-3","text":"Scheduling Agent","textPreview":"Scheduling Agent","textChars":16,"textLines":1,"bbox":[400,438,348,32]}
+{"kind":"textbox","id":"sh/8nqxs72x","slide":4,"name":"specialist-route-body-3","text":"Supports visit prep, follow-up flow, and coordination requests.","textPreview":"Supports visit prep, follow-up flow, and coordination requests.","textChars":63,"textLines":1,"bbox":[400,476,348,34]}
+{"kind":"shape","id":"sh/j2t83itg","slide":4,"name":"specialist-route-4","bbox":[796,390,412,136]}
+{"kind":"shape","id":"sh/qh0fepkz","slide":4,"name":"specialist-route-line-4","bbox":[824,412,76,5]}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":4,"name":"specialist-route-title-4","text":"Alert Agent","textPreview":"Alert Agent","textChars":11,"textLines":1,"bbox":[824,438,356,32]}
+{"kind":"textbox","id":"sh/crmhk3q5","slide":4,"name":"specialist-route-body-4","text":"Escalates urgent patterns into a safety-first response path.","textPreview":"Escalates urgent patterns into a safety-first response path.","textChars":60,"textLines":1,"bbox":[824,476,356,34]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":4,"name":"workspace-strip","bbox":[372,550,836,58]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":4,"name":"workspace-strip-text","text":"Focused workspaces: Vitals, Labs, Wellness, Records, Insurance, Summary.","textPreview":"Focused workspaces: Vitals, Labs, Wellness, Records, Insurance, Summary.","textChars":72,"textLines":1,"bbox":[398,566,784,24]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":4,"name":"router-close","text":"That is why Care Nova can answer narrowly instead of broadly.","textPreview":"That is why Care Nova can answer narrowly instead of broadly.","textChars":61,"textLines":1,"bbox":[52,644,1176,24]}
+{"kind":"notes","id":"nt/cixby5","slide":4,"text":""}
+{"kind":"slide","id":"sl/ccc9lj","slide":5,"title":"OFFLINE MODE","textShapes":16}
+{"kind":"textbox","id":"sh/ixczed8v","slide":5,"name":"eyebrow-OFFLINE MODE","text":"OFFLINE MODE","textPreview":"OFFLINE MODE","textChars":12,"textLines":1,"bbox":[52,42,220,24]}
+{"kind":"textbox","id":"sh/tovahoza","slide":5,"name":"title-Local-first keeps care private and usable anywhere","text":"Local-first keeps care private and usable anywhere","textPreview":"Local-first keeps care private and usable anywhere","textChars":50,"textLines":1,"bbox":[52,74,1120,64]}
+{"kind":"shape","id":"sh/032lszqt","slide":5,"name":"header-line-Local-first keeps care private and usable anywhere","bbox":[52,148,104,4]}
+{"kind":"textbox","id":"sh/bulwval8","slide":5,"name":"subtitle-Local-first keeps care private and usable anywhere","text":"Patient memory and records stay on the local machine by default.","textPreview":"Patient memory and records stay on the local machine by default.","textChars":64,"textLines":1,"bbox":[52,164,1120,38]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":5,"name":"offline-metric-panel","bbox":[36,224,430,372]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":5,"name":"offline-metric-line","bbox":[68,248,84,5]}
+{"kind":"shape","id":"sh/0fepkzup","slide":5,"name":"offline-metric-pill-panel","bbox":[300,244,132,30]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":5,"name":"offline-metric-pill-text","text":"Default mode","textPreview":"Default mode","textChars":12,"textLines":1,"bbox":[300,246,132,26]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":5,"name":"offline-metric-number","text":"0","textPreview":"0","textChars":1,"textLines":1,"bbox":[66,274,116,112]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":5,"name":"offline-metric-label","text":"mandatory cloud calls","textPreview":"mandatory cloud calls","textChars":21,"textLines":1,"bbox":[176,304,210,58]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":5,"name":"offline-metric-body","text":"The same local engine, knowledge base, and patient memory still run.","textPreview":"The same local engine, knowledge base, and patient memory still run.","textChars":68,"textLines":1,"bbox":[68,394,330,64]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":5,"name":"offline-metric-bullet-icon-68-476","bbox":[68,484,16,16]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":5,"name":"offline-metric-bullet-text-68-476","text":"Local knowledge base and safety references","textPreview":"Local knowledge base and safety references","textChars":42,"textLines":1,"bbox":[98,476,318,36]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":5,"name":"offline-metric-bullet-icon-68-510","bbox":[68,518,16,16]}
+{"kind":"textbox","id":"sh/1032lszq","slide":5,"name":"offline-metric-bullet-text-68-510","text":"Patient memory, records, and graph facts","textPreview":"Patient memory, records, and graph facts","textChars":40,"textLines":1,"bbox":[98,510,318,36]}
+{"kind":"shape","id":"sh/u9knih4b","slide":5,"name":"offline-metric-bullet-icon-68-544","bbox":[68,552,16,16]}
+{"kind":"textbox","id":"sh/judg7ads","slide":5,"name":"offline-metric-bullet-text-68-544","text":"Cloud access is not required","textPreview":"Cloud access is not required","textChars":28,"textLines":1,"bbox":[98,544,318,36]}
+{"kind":"shape","id":"sh/cj6tovah","slide":5,"name":"offline-local-card","bbox":[506,224,722,154]}
+{"kind":"shape","id":"sh/54zidony","slide":5,"name":"offline-local-line","bbox":[538,248,84,5]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":5,"name":"offline-local-title","text":"What stays local","textPreview":"What stays local","textChars":16,"textLines":1,"bbox":[538,278,250,34]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":5,"name":"offline-local-body","text":"Patient memory, records, graph facts, and app state stay local by default.","textPreview":"Patient memory, records, graph facts, and app state stay local by default.","textChars":74,"textLines":1,"bbox":[538,322,642,34]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":5,"name":"offline-why-card","bbox":[506,392,722,214]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":5,"name":"offline-why-line","bbox":[538,422,84,5]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":5,"name":"offline-why-title","text":"Why teams care","textPreview":"Why teams care","textChars":14,"textLines":1,"bbox":[538,450,280,34]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":5,"name":"offline-why-bullet-icon-538-494","bbox":[538,502,16,16]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":5,"name":"offline-why-bullet-text-538-494","text":"Privacy by default","textPreview":"Privacy by default","textChars":18,"textLines":1,"bbox":[568,494,612,36]}
+{"kind":"shape","id":"sh/yd0z6103","slide":5,"name":"offline-why-bullet-icon-538-526","bbox":[538,534,16,16]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":5,"name":"offline-why-bullet-text-538-526","text":"Usable on weak or unstable networks","textPreview":"Usable on weak or unstable networks","textChars":35,"textLines":1,"bbox":[568,526,612,36]}
+{"kind":"shape","id":"sh/gr2p8nqx","slide":5,"name":"offline-why-bullet-icon-538-558","bbox":[538,566,16,16]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":5,"name":"offline-why-bullet-text-538-558","text":"Low deployment friction","textPreview":"Low deployment friction","textChars":23,"textLines":1,"bbox":[568,558,612,36]}
+{"kind":"notes","id":"nt/ccc9lj","slide":5,"text":""}
+{"kind":"slide","id":"sl/ncn72e","slide":6,"title":"RAG + MEMORY","textShapes":22}
+{"kind":"textbox","id":"sh/xs72x4na","slide":6,"name":"eyebrow-RAG + MEMORY","text":"RAG + MEMORY","textPreview":"RAG + MEMORY","textChars":12,"textLines":1,"bbox":[52,42,220,24]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":6,"name":"title-RAG + memory make answers context-aware","text":"RAG + memory make answers context-aware","textPreview":"RAG + memory make answers context-aware","textChars":39,"textLines":1,"bbox":[52,74,1120,64]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":6,"name":"header-line-RAG + memory make answers context-aware","bbox":[52,148,104,4]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":6,"name":"subtitle-RAG + memory make answers context-aware","text":"Local evidence and persistent patient context ground each reply.","textPreview":"Local evidence and persistent patient context ground each reply.","textChars":64,"textLines":1,"bbox":[52,164,1120,38]}
+{"kind":"shape","id":"sh/1gvy90je","slide":6,"name":"mode-card-panel","bbox":[36,226,564,296]}
+{"kind":"shape","id":"sh/qtcj6tov","slide":6,"name":"mode-card-line","bbox":[66,248,78,5]}
+{"kind":"shape","id":"sh/je9cvixc","slide":6,"name":"mode-card-pill-panel","bbox":[450,248,124,30]}
+{"kind":"textbox","id":"sh/8v6psfil","slide":6,"name":"mode-card-pill-text","text":"Grounding","textPreview":"Grounding","textChars":9,"textLines":1,"bbox":[450,250,124,26]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":6,"name":"mode-card-title","text":"Retrieval","textPreview":"Retrieval","textChars":9,"textLines":1,"bbox":[66,280,348,38]}
+{"kind":"textbox","id":"sh/donyd0z6","slide":6,"name":"mode-card-body","text":"Query is built from the message, vitals, profile, and memory.","textPreview":"Query is built from the message, vitals, profile, and memory.","textChars":61,"textLines":1,"bbox":[66,318,504,48]}
+{"kind":"shape","id":"sh/k3q5o7qp","slide":6,"name":"mode-card-bullet-icon-66-374","bbox":[66,382,16,16]}
+{"kind":"textbox","id":"sh/vixczed8","slide":6,"name":"mode-card-bullet-text-66-374","text":"Ranks local healthcare knowledge","textPreview":"Ranks local healthcare knowledge","textChars":32,"textLines":1,"bbox":[96,374,482,36]}
+{"kind":"shape","id":"sh/2x4nap4r","slide":6,"name":"mode-card-bullet-icon-66-414","bbox":[66,422,16,16]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":6,"name":"mode-card-bullet-text-66-414","text":"Can reuse approved cached references","textPreview":"Can reuse approved cached references","textChars":36,"textLines":1,"bbox":[96,414,482,36]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":6,"name":"mode-card-bullet-icon-66-454","bbox":[66,462,16,16]}
+{"kind":"textbox","id":"sh/val87ed8","slide":6,"name":"mode-card-bullet-text-66-454","text":"Grounds the reply in evidence","textPreview":"Grounds the reply in evidence","textChars":29,"textLines":1,"bbox":[96,454,482,36]}
+{"kind":"shape","id":"sh/6psfil0r","slide":6,"name":"mode-card-panel","bbox":[628,226,600,296]}
+{"kind":"shape","id":"sh/d8bat47y","slide":6,"name":"mode-card-line","bbox":[658,248,78,5]}
+{"kind":"shape","id":"sh/knih4byh","slide":6,"name":"mode-card-pill-panel","bbox":[1078,248,124,30]}
+{"kind":"textbox","id":"sh/wjudg7ad","slide":6,"name":"mode-card-pill-text","text":"Persistent","textPreview":"Persistent","textChars":10,"textLines":1,"bbox":[1078,250,124,26]}
+{"kind":"textbox","id":"sh/p4r65wju","slide":6,"name":"mode-card-title","text":"Memory","textPreview":"Memory","textChars":6,"textLines":1,"bbox":[658,280,384,38]}
+{"kind":"textbox","id":"sh/ed8v6psf","slide":6,"name":"mode-card-body","text":"Persistent local context reloads before every analysis.","textPreview":"Persistent local context reloads before every analysis.","textChars":55,"textLines":1,"bbox":[658,318,540,48]}
+{"kind":"shape","id":"sh/7y1kre1w","slide":6,"name":"mode-card-bullet-icon-658-374","bbox":[658,382,16,16]}
+{"kind":"textbox","id":"sh/0bi9s36h","slide":6,"name":"mode-card-bullet-text-658-374","text":"Patient memory, records, and knowledge graph","textPreview":"Patient memory, records, and knowledge graph","textChars":44,"textLines":1,"bbox":[688,374,518,36]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":6,"name":"mode-card-bullet-icon-658-414","bbox":[658,422,16,16]}
+{"kind":"textbox","id":"sh/i5sneloj","slide":6,"name":"mode-card-bullet-text-658-414","text":"The system is not stateless","textPreview":"The system is not stateless","textChars":27,"textLines":1,"bbox":[688,414,518,36]}
+{"kind":"shape","id":"sh/7qpg3ex0","slide":6,"name":"mode-card-bullet-icon-658-454","bbox":[658,462,16,16]}
+{"kind":"textbox","id":"sh/0z61032l","slide":6,"name":"mode-card-bullet-text-658-454","text":"Result is stored for the next turn","textPreview":"Result is stored for the next turn","textChars":34,"textLines":1,"bbox":[688,454,518,36]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":6,"name":"hybrid-trust-card","bbox":[36,546,1192,88]}
+{"kind":"shape","id":"sh/je9cvixc","slide":6,"name":"hybrid-trust-line","bbox":[52,566,88,5]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":6,"name":"hybrid-trust-title","text":"Approved sources","textPreview":"Approved sources","textChars":16,"textLines":1,"bbox":[52,582,190,24]}
+{"kind":"shape","id":"sh/1gvy90je","slide":6,"name":"hybrid-trust-pill-1-panel","bbox":[274,574,132,32]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":6,"name":"hybrid-trust-pill-1-text","text":"MedlinePlus","textPreview":"MedlinePlus","textChars":11,"textLines":1,"bbox":[274,576,132,28]}
+{"kind":"shape","id":"sh/fmlkjm1c","slide":6,"name":"hybrid-trust-pill-2-panel","bbox":[438,574,132,32]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":6,"name":"hybrid-trust-pill-2-text","text":"RxNorm","textPreview":"RxNorm","textChars":6,"textLines":1,"bbox":[438,576,132,28]}
+{"kind":"shape","id":"sh/xs72x4na","slide":6,"name":"hybrid-trust-pill-3-panel","bbox":[566,574,132,32]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":6,"name":"hybrid-trust-pill-3-text","text":"openFDA","textPreview":"openFDA","textChars":7,"textLines":1,"bbox":[566,576,132,28]}
+{"kind":"shape","id":"sh/fyxobm58","slide":6,"name":"hybrid-trust-pill-4-panel","bbox":[694,574,132,32]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":6,"name":"hybrid-trust-pill-4-text","text":"LOINC","textPreview":"LOINC","textChars":5,"textLines":1,"bbox":[694,576,132,28]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":6,"name":"hybrid-trust-pill-5-panel","bbox":[798,574,184,32]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":6,"name":"hybrid-trust-pill-5-text","text":"SMART on FHIR","textPreview":"SMART on FHIR","textChars":13,"textLines":1,"bbox":[798,576,184,28]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":6,"name":"hybrid-footer-text","text":"Online enrichment is optional. The core workflow still runs locally.","textPreview":"Online enrichment is optional. The core workflow still runs locally.","textChars":68,"textLines":1,"bbox":[36,652,1192,24]}
+{"kind":"notes","id":"nt/ncn72e","slide":6,"text":""}
+{"kind":"slide","id":"sl/334f67","slide":7,"title":"APPLICATION MODES","textShapes":22}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":7,"name":"eyebrow-APPLICATION MODES","text":"APPLICATION MODES","textPreview":"APPLICATION MODES","textChars":17,"textLines":1,"bbox":[52,42,220,24]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":7,"name":"title-Guided for patients. Expert for deep review.","text":"Guided for patients. Expert for deep review.","textPreview":"Guided for patients. Expert for deep review.","textChars":44,"textLines":1,"bbox":[52,74,1176,64]}
+{"kind":"shape","id":"sh/1orytsvu","slide":7,"name":"header-line-Guided for patients. Expert for deep review.","bbox":[52,148,104,4]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":7,"name":"subtitle-Guided for patients. Expert for deep review.","text":"The same local engine supports simple guidance and detailed evidence review.","textPreview":"The same local engine supports simple guidance and detailed evidence review.","textChars":76,"textLines":1,"bbox":[52,164,1120,38]}
+{"kind":"shape","id":"sh/judg7ads","slide":7,"name":"modes-mobile-backplate","bbox":[32,216,314,428]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":7,"name":"modes-mobile-frame","bbox":[44,228,290,404]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":7,"name":"modes-mobile-caption","text":"Local-first PWA: laptop, mobile, and installable app shells.","textPreview":"Local-first PWA: laptop, mobile, and installable app shells.","textChars":60,"textLines":1,"bbox":[36,644,308,20]}
+{"kind":"shape","id":"sh/nyd0z610","slide":7,"name":"mode-panel-1","bbox":[376,228,852,140]}
+{"kind":"shape","id":"sh/v6psfil0","slide":7,"name":"mode-panel-line-1","bbox":[408,250,82,5]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":7,"name":"mode-panel-title-1","text":"Guided mode","textPreview":"Guided mode","textChars":11,"textLines":1,"bbox":[408,276,252,34]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":7,"name":"mode-panel-body-1","text":"Simple patient flow that turns fragmented context into one safe next step.","textPreview":"Simple patient flow that turns fragmented context into one safe next step.","textChars":74,"textLines":1,"bbox":[408,320,330,30]}
+{"kind":"shape","id":"sh/knih4byh","slide":7,"name":"mode-panel-divider-1","bbox":[776,256,1,84]}
+{"kind":"shape","id":"sh/vu9knih4","slide":7,"name":"mode-panel-bullet-1-icon-810-262","bbox":[810,270,16,16]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":7,"name":"mode-panel-bullet-1-text-810-262","text":"Low-friction experience","textPreview":"Low-friction experience","textChars":23,"textLines":1,"bbox":[840,262,358,36]}
+{"kind":"shape","id":"sh/d0z61032","slide":7,"name":"mode-panel-bullet-1-icon-810-290","bbox":[810,298,16,16]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":7,"name":"mode-panel-bullet-1-text-810-290","text":"Safe default path","textPreview":"Safe default path","textChars":17,"textLines":1,"bbox":[840,290,358,36]}
+{"kind":"shape","id":"sh/vixczed8","slide":7,"name":"mode-panel-bullet-1-icon-810-318","bbox":[810,326,16,16]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":7,"name":"mode-panel-bullet-1-text-810-318","text":"Clear answer","textPreview":"Clear answer","textChars":12,"textLines":1,"bbox":[840,318,358,36]}
+{"kind":"shape","id":"sh/ex0nuxc3","slide":7,"name":"mode-panel-2","bbox":[376,392,852,140]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":7,"name":"mode-panel-line-2","bbox":[408,414,82,5]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":7,"name":"mode-panel-title-2","text":"Expert mode","textPreview":"Expert mode","textChars":11,"textLines":1,"bbox":[408,440,252,34]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":7,"name":"mode-panel-body-2","text":"Full routes, evidence panels, records, and deeper review controls.","textPreview":"Full routes, evidence panels, records, and deeper review controls.","textChars":66,"textLines":1,"bbox":[408,484,330,30]}
+{"kind":"shape","id":"sh/e9cvixcz","slide":7,"name":"mode-panel-divider-2","bbox":[776,420,1,84]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":7,"name":"mode-panel-bullet-2-icon-810-426","bbox":[810,434,16,16]}
+{"kind":"textbox","id":"sh/wb2hwfyx","slide":7,"name":"mode-panel-bullet-2-text-810-426","text":"Review risk and evidence","textPreview":"Review risk and evidence","textChars":24,"textLines":1,"bbox":[840,426,358,36]}
+{"kind":"shape","id":"sh/lwval87e","slide":7,"name":"mode-panel-bullet-2-icon-810-454","bbox":[810,462,16,16]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":7,"name":"mode-panel-bullet-2-text-810-454","text":"Inspect records and memory","textPreview":"Inspect records and memory","textChars":26,"textLines":1,"bbox":[840,454,358,36]}
+{"kind":"shape","id":"sh/32lszqtc","slide":7,"name":"mode-panel-bullet-2-icon-810-482","bbox":[810,490,16,16]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":7,"name":"mode-panel-bullet-2-text-810-482","text":"Navigate specialist workspaces","textPreview":"Navigate specialist workspaces","textChars":30,"textLines":1,"bbox":[840,482,358,36]}
+{"kind":"shape","id":"sh/0je9cvix","slide":7,"name":"workspace-modes-panel","bbox":[376,556,852,72]}
+{"kind":"shape","id":"sh/byhgn29g","slide":7,"name":"workspace-modes-line","bbox":[408,580,82,5]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":7,"name":"workspace-modes-title","text":"Focused workspaces","textPreview":"Focused workspaces","textChars":18,"textLines":1,"bbox":[408,592,172,24]}
+{"kind":"shape","id":"sh/tcj6tova","slide":7,"name":"workspace-mode-pill-1-panel","bbox":[618,578,82,30]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":7,"name":"workspace-mode-pill-1-text","text":"Vitals","textPreview":"Vitals","textChars":6,"textLines":1,"bbox":[618,580,82,26]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":7,"name":"workspace-mode-pill-2-panel","bbox":[708,578,76,30]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":7,"name":"workspace-mode-pill-2-text","text":"Labs","textPreview":"Labs","textChars":4,"textLines":1,"bbox":[708,580,76,26]}
+{"kind":"shape","id":"sh/tovahoza","slide":7,"name":"workspace-mode-pill-3-panel","bbox":[792,578,110,30]}
+{"kind":"textbox","id":"sh/032lszqt","slide":7,"name":"workspace-mode-pill-3-text","text":"Wellness","textPreview":"Wellness","textChars":8,"textLines":1,"bbox":[792,580,110,26]}
+{"kind":"shape","id":"sh/orytsvu9","slide":7,"name":"workspace-mode-pill-4-panel","bbox":[910,578,98,30]}
+{"kind":"textbox","id":"sh/hcrmhk3q","slide":7,"name":"workspace-mode-pill-4-text","text":"Records","textPreview":"Records","textChars":7,"textLines":1,"bbox":[910,580,98,26]}
+{"kind":"shape","id":"sh/al87ed8b","slide":7,"name":"workspace-mode-pill-5-panel","bbox":[1016,578,116,30]}
+{"kind":"textbox","id":"sh/z61032ls","slide":7,"name":"workspace-mode-pill-5-text","text":"Insurance","textPreview":"Insurance","textChars":9,"textLines":1,"bbox":[1016,580,116,26]}
+{"kind":"shape","id":"sh/sfil0rqd","slide":7,"name":"workspace-mode-pill-6-panel","bbox":[1140,578,88,30]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":7,"name":"workspace-mode-pill-6-text","text":"Summary","textPreview":"Summary","textChars":7,"textLines":1,"bbox":[1140,580,88,26]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":7,"name":"access-footer-text","text":"One product surface can support both fast guidance and detailed review.","textPreview":"One product surface can support both fast guidance and detailed review.","textChars":71,"textLines":1,"bbox":[36,662,1192,22]}
+{"kind":"image","id":"im/svu9knih","slide":7,"name":"","geometry":"roundRect","alt":"Care Nova AI mobile application screenshot","bbox":[44,228,290,404]}
+{"kind":"notes","id":"nt/334f67","slide":7,"text":""}
+{"kind":"slide","id":"sl/zj589l","slide":8,"title":"SAFETY BOUNDARY","textShapes":14}
+{"kind":"textbox","id":"sh/mhk3q5o7","slide":8,"name":"eyebrow-SAFETY BOUNDARY","text":"SAFETY BOUNDARY","textPreview":"SAFETY BOUNDARY","textChars":15,"textLines":1,"bbox":[52,42,220,24]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":8,"name":"title-Safety boundaries are explicit and enforced","text":"Safety boundaries are explicit and enforced","textPreview":"Safety boundaries are explicit and enforced","textChars":43,"textLines":1,"bbox":[52,74,1120,64]}
+{"kind":"shape","id":"sh/4nap4r65","slide":8,"name":"header-line-Safety boundaries are explicit and enforced","bbox":[52,148,104,4]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":8,"name":"subtitle-Safety boundaries are explicit and enforced","text":"Useful support, with hard limits.","textPreview":"Useful support, with hard limits.","textChars":33,"textLines":1,"bbox":[52,164,1120,38]}
+{"kind":"shape","id":"sh/m58z25kb","slide":8,"name":"final-supports-card","bbox":[36,228,560,286]}
+{"kind":"shape","id":"sh/twra5gbq","slide":8,"name":"final-supports-line","bbox":[52,246,84,4]}
+{"kind":"textbox","id":"sh/4byhgn29","slide":8,"name":"final-supports-title","text":"Does help","textPreview":"Does help","textChars":9,"textLines":1,"bbox":[52,264,220,34]}
+{"kind":"shape","id":"sh/bm58z25k","slide":8,"name":"final-supports-bullet-icon-52-320","bbox":[52,328,16,16]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":8,"name":"final-supports-bullet-text-52-320","text":"Risk review and triage","textPreview":"Risk review and triage","textChars":22,"textLines":1,"bbox":[82,320,470,36]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":8,"name":"final-supports-bullet-icon-52-366","bbox":[52,374,16,16]}
+{"kind":"textbox","id":"sh/1032lszq","slide":8,"name":"final-supports-bullet-text-52-366","text":"Medicine, lab, and insurance guidance","textPreview":"Medicine, lab, and insurance guidance","textChars":37,"textLines":1,"bbox":[82,366,470,36]}
+{"kind":"shape","id":"sh/u9knih4b","slide":8,"name":"final-supports-bullet-icon-52-412","bbox":[52,420,16,16]}
+{"kind":"textbox","id":"sh/judg7ads","slide":8,"name":"final-supports-bullet-text-52-412","text":"Doctor-ready summary and follow-up prep","textPreview":"Doctor-ready summary and follow-up prep","textChars":39,"textLines":1,"bbox":[82,412,470,36]}
+{"kind":"shape","id":"sh/c7u54zid","slide":8,"name":"final-supports-bullet-icon-52-458","bbox":[52,466,16,16]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":8,"name":"final-supports-bullet-text-52-458","text":"Urgent cases can force a safety-first route","textPreview":"Urgent cases can force a safety-first route","textChars":43,"textLines":1,"bbox":[82,458,470,36]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":8,"name":"final-limits-card","bbox":[662,228,566,286]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":8,"name":"final-limits-line","bbox":[678,246,84,4]}
+{"kind":"textbox","id":"sh/cvixczed","slide":8,"name":"final-limits-title","text":"Never does","textPreview":"Never does","textChars":10,"textLines":1,"bbox":[678,264,260,34]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":8,"name":"final-limits-bullet-icon-678-320","bbox":[678,328,16,16]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":8,"name":"final-limits-bullet-text-678-320","text":"Final diagnosis","textPreview":"Final diagnosis","textChars":15,"textLines":1,"bbox":[708,320,420,36]}
+{"kind":"shape","id":"sh/gfmlkjm1","slide":8,"name":"final-limits-bullet-icon-678-366","bbox":[678,374,16,16]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":8,"name":"final-limits-bullet-text-678-366","text":"Prescribing","textPreview":"Prescribing","textChars":11,"textLines":1,"bbox":[708,366,420,36]}
+{"kind":"shape","id":"sh/yd0z6103","slide":8,"name":"final-limits-bullet-icon-678-412","bbox":[678,420,16,16]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":8,"name":"final-limits-bullet-text-678-412","text":"Dose calculation","textPreview":"Dose calculation","textChars":16,"textLines":1,"bbox":[708,412,420,36]}
+{"kind":"shape","id":"sh/g7adsji5","slide":8,"name":"final-limits-bullet-icon-678-458","bbox":[678,466,16,16]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":8,"name":"final-limits-bullet-text-678-458","text":"Appointment booking or emergency calls","textPreview":"Appointment booking or emergency calls","textChars":38,"textLines":1,"bbox":[708,458,420,36]}
+{"kind":"shape","id":"sh/y1kre1w7","slide":8,"name":"final-memory-line","bbox":[446,598,110,5]}
+{"kind":"textbox","id":"sh/5o7qpg3e","slide":8,"name":"final-memory-text","text":"Patient context can grow. Medical facts stay locked.","textPreview":"Patient context can grow. Medical facts stay locked.","textChars":52,"textLines":1,"bbox":[196,620,840,24]}
+{"kind":"notes","id":"nt/zj589l","slide":8,"text":""}
+{"kind":"slide","id":"sl/qq12ex","slide":9,"title":"WHY IT STANDS OUT","textShapes":13}
+{"kind":"textbox","id":"sh/61032lsz","slide":9,"name":"eyebrow-WHY IT STANDS OUT","text":"WHY IT STANDS OUT","textPreview":"WHY IT STANDS OUT","textChars":17,"textLines":1,"bbox":[52,42,220,24]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":9,"name":"title-Care Nova adds the layers generic AI misses","text":"Care Nova adds the layers generic AI misses","textPreview":"Care Nova adds the layers generic AI misses","textChars":43,"textLines":1,"bbox":[52,74,1176,64]}
+{"kind":"shape","id":"sh/o7qpg3ex","slide":9,"name":"header-line-Care Nova adds the layers generic AI misses","bbox":[52,148,104,4]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":9,"name":"subtitle-Care Nova adds the layers generic AI misses","text":"Memory, routing, and safety shift the answer from broad to focused.","textPreview":"Memory, routing, and safety shift the answer from broad to focused.","textChars":67,"textLines":1,"bbox":[52,164,1120,38]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":9,"name":"closing-band-1","bbox":[52,230,1176,110]}
+{"kind":"shape","id":"sh/d4vmtwra","slide":9,"name":"closing-band-line-1","bbox":[82,252,86,5]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":9,"name":"closing-band-label-1","text":"MEMORY","textPreview":"MEMORY","textChars":6,"textLines":1,"bbox":[82,268,188,22]}
+{"kind":"textbox","id":"sh/z25kb6xk","slide":9,"name":"closing-band-generic-1","text":"Generic AI starts cold.","textPreview":"Generic AI starts cold.","textChars":23,"textLines":1,"bbox":[82,298,232,22]}
+{"kind":"shape","id":"sh/6hcrmhk3","slide":9,"name":"closing-band-divider-1","bbox":[332,252,1,66]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":9,"name":"closing-band-care-1","text":"Care Nova reloads patient memory, records, and graph context.","textPreview":"Care Nova reloads patient memory, records, and graph context.","textChars":61,"textLines":1,"bbox":[362,258,820,54]}
+{"kind":"shape","id":"sh/9cvixcze","slide":9,"name":"closing-band-2","bbox":[52,368,1176,110]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":9,"name":"closing-band-line-2","bbox":[82,390,86,5]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":9,"name":"closing-band-label-2","text":"ROUTING","textPreview":"ROUTING","textChars":7,"textLines":1,"bbox":[82,406,188,22]}
+{"kind":"textbox","id":"sh/g3ex0nux","slide":9,"name":"closing-band-generic-2","text":"Generic AI gives one broad answer.","textPreview":"Generic AI gives one broad answer.","textChars":34,"textLines":1,"bbox":[82,436,232,22]}
+{"kind":"shape","id":"sh/5o7qpg3e","slide":9,"name":"closing-band-divider-2","bbox":[332,390,1,66]}
+{"kind":"textbox","id":"sh/yxobm58z","slide":9,"name":"closing-band-care-2","text":"Care Nova chooses the right specialist path before replying.","textPreview":"Care Nova chooses the right specialist path before replying.","textChars":60,"textLines":1,"bbox":[362,396,820,54]}
+{"kind":"shape","id":"sh/nih4byhg","slide":9,"name":"closing-band-3","bbox":[52,506,1176,110]}
+{"kind":"shape","id":"sh/g7adsji5","slide":9,"name":"closing-band-line-3","bbox":[82,528,86,5]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":9,"name":"closing-band-label-3","text":"SAFETY","textPreview":"SAFETY","textChars":6,"textLines":1,"bbox":[82,544,188,22]}
+{"kind":"textbox","id":"sh/twra5gbq","slide":9,"name":"closing-band-generic-3","text":"Generic AI can overstep.","textPreview":"Generic AI can overstep.","textChars":24,"textLines":1,"bbox":[82,574,232,22]}
+{"kind":"shape","id":"sh/4byhgn29","slide":9,"name":"closing-band-divider-3","bbox":[332,528,1,66]}
+{"kind":"textbox","id":"sh/bq1oryts","slide":9,"name":"closing-band-care-3","text":"Care Nova blocks diagnosis, prescribing, and dosage advice in the demo build.","textPreview":"Care Nova blocks diagnosis, prescribing, and dosage advice in the demo build.","textChars":77,"textLines":1,"bbox":[362,534,820,54]}
+{"kind":"shape","id":"sh/m58z25kb","slide":9,"name":"closing-summary-strip","bbox":[52,654,1176,42]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":9,"name":"closing-final-text","text":"Result: one clear, safety-checked next step instead of a broad uncertain reply.","textPreview":"Result: one clear, safety-checked next step instead of a broad uncertain reply.","textChars":79,"textLines":1,"bbox":[80,664,1176,20]}
+{"kind":"notes","id":"nt/qq12ex","slide":9,"text":""}

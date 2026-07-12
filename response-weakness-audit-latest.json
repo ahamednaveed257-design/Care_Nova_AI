@@ -1,0 +1,90 @@
+{
+  "generatedAt": "2026-07-08T12:34:46.436Z",
+  "scenarioCount": 7,
+  "findingCount": 0,
+  "findings": [],
+  "scenarioSummaries": [
+    {
+      "id": "specialist_sparse",
+      "label": "Sparse specialist request",
+      "risk": "LOW",
+      "routes": [
+        "SPECIALIST_DOCTOR_AGENT"
+      ],
+      "owner": "SPECIALIST_DOCTOR_AGENT",
+      "precisionScore": 57,
+      "reasoningScore": 85
+    },
+    {
+      "id": "med_and_bp",
+      "label": "Medication plus BP question",
+      "risk": "MEDIUM",
+      "routes": [
+        "PHARMACY_AGENT",
+        "VITALS_AGENT",
+        "RAG_AGENT",
+        "ALERT_AGENT"
+      ],
+      "owner": "PHARMACY_AGENT",
+      "precisionScore": 84,
+      "reasoningScore": 91
+    },
+    {
+      "id": "kidney_multi",
+      "label": "Kidney specialist mixed with labs and medicine",
+      "risk": "MEDIUM",
+      "routes": [
+        "SPECIALIST_DOCTOR_AGENT"
+      ],
+      "owner": "SPECIALIST_DOCTOR_AGENT",
+      "precisionScore": 84,
+      "reasoningScore": 87
+    },
+    {
+      "id": "urgent_chest_pain_specialist",
+      "label": "Urgent specialist chest pain request",
+      "risk": "CRITICAL",
+      "routes": [
+        "SPECIALIST_DOCTOR_AGENT",
+        "ALERT_AGENT"
+      ],
+      "owner": "SPECIALIST_DOCTOR_AGENT",
+      "precisionScore": 76,
+      "reasoningScore": 92
+    },
+    {
+      "id": "labs_missing_context",
+      "label": "Labs question with incomplete report context",
+      "risk": "MEDIUM",
+      "routes": [
+        "LABS_AGENT"
+      ],
+      "owner": "LABS_AGENT",
+      "precisionScore": 41,
+      "reasoningScore": 90
+    },
+    {
+      "id": "insurance_admin",
+      "label": "Insurance appeal admin request",
+      "risk": "LOW",
+      "routes": [
+        "INSURANCE_AGENT"
+      ],
+      "owner": "INSURANCE_AGENT",
+      "precisionScore": 44,
+      "reasoningScore": 92
+    },
+    {
+      "id": "wellness_crisis",
+      "label": "Mental wellness crisis request",
+      "risk": "HIGH",
+      "routes": [
+        "WELLNESS_AGENT",
+        "ALERT_AGENT"
+      ],
+      "owner": "WELLNESS_AGENT",
+      "precisionScore": 56,
+      "reasoningScore": 92
+    }
+  ]
+}

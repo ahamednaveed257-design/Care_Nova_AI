@@ -1,0 +1,1587 @@
+[
+  {
+    "viewport": "desktop",
+    "tabs": [
+      {
+        "key": "advisor",
+        "label": "General Health Q&A"
+      },
+      {
+        "key": "specialist",
+        "label": "Specialist Core diseases"
+      },
+      {
+        "key": "profile",
+        "label": "Profile Patients"
+      },
+      {
+        "key": "atlas",
+        "label": "Atlas Library"
+      },
+      {
+        "key": "vitals",
+        "label": "Vitals Readings"
+      },
+      {
+        "key": "medications",
+        "label": "Medicine Guide"
+      },
+      {
+        "key": "labs",
+        "label": "Labs Reports"
+      },
+      {
+        "key": "wellness",
+        "label": "Wellness Habits"
+      },
+      {
+        "key": "appointments",
+        "label": "Visits Follow-up"
+      },
+      {
+        "key": "safety",
+        "label": "Safety Measures"
+      },
+      {
+        "key": "records",
+        "label": "Records Summary"
+      },
+      {
+        "key": "insurance",
+        "label": "Insurance Claims"
+      },
+      {
+        "key": "dashboard",
+        "label": "Summary Snapshot"
+      }
+    ],
+    "results": [
+      {
+        "tab": "advisor",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "advisor",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Chest pain",
+            "left": 387,
+            "right": 1342,
+            "top": 1154,
+            "width": 956,
+            "height": 78,
+            "scrollWidth": 960,
+            "clientWidth": 956
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Breathing trouble",
+            "left": 387,
+            "right": 1342,
+            "top": 1231,
+            "width": 956,
+            "height": 78,
+            "scrollWidth": 960,
+            "clientWidth": 956
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Fainting",
+            "left": 387,
+            "right": 1342,
+            "top": 1309,
+            "width": 956,
+            "height": 78,
+            "scrollWidth": 960,
+            "clientWidth": 956
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "One-sided weakness",
+            "left": 387,
+            "right": 1342,
+            "top": 1386,
+            "width": 956,
+            "height": 78,
+            "scrollWidth": 960,
+            "clientWidth": 956
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Severe allergy",
+            "left": 387,
+            "right": 1342,
+            "top": 1464,
+            "width": 956,
+            "height": 78,
+            "scrollWidth": 960,
+            "clientWidth": 956
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Rapid worsening",
+            "left": 387,
+            "right": 1342,
+            "top": 1541,
+            "width": 956,
+            "height": 78,
+            "scrollWidth": 960,
+            "clientWidth": 956
+          }
+        ],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": [
+          {
+            "a": {
+              "tag": "label",
+              "label": "LABEL",
+              "text": "Need Understand symptoms Medicine safety Visit or follow-up Check urgency",
+              "rect": [
+                371,
+                835,
+                987,
+                68
+              ]
+            },
+            "b": {
+              "tag": "span",
+              "label": "button-label",
+              "text": "Ask Care Nova",
+              "rect": [
+                452,
+                870,
+                109,
+                24
+              ]
+            },
+            "area": 2660
+          }
+        ]
+      },
+      {
+        "tab": "specialist",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "specialist",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [
+          {
+            "tag": "section",
+            "label": "workspace-card specialist-ask-card",
+            "text": "Ask the specialist Specialty Heart & blood pressure Diabetes & metabolism Breathing & lungs Headache, stroke signs & nerves Kidney",
+            "left": 318,
+            "right": 813,
+            "top": 541,
+            "width": 495,
+            "height": 1434,
+            "scrollWidth": 534,
+            "clientWidth": 493
+          },
+          {
+            "tag": "form",
+            "label": "specialistForm",
+            "text": "Specialty Heart & blood pressure Diabetes & metabolism Breathing & lungs Headache, stroke signs & nerves Kidney & urine health Sto",
+            "left": 333,
+            "right": 798,
+            "top": 604,
+            "width": 465,
+            "height": 1356,
+            "scrollWidth": 520,
+            "clientWidth": 465
+          },
+          {
+            "tag": "fieldset",
+            "label": "specialist-redflag-box",
+            "text": "Urgent signs to check Chest pain Breathing trouble One-sided weakness Fainting/confusion Allergy swelling Dehydration/vomiting",
+            "left": 333,
+            "right": 798,
+            "top": 1118,
+            "width": 465,
+            "height": 179,
+            "scrollWidth": 519,
+            "clientWidth": 463
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Dehydration/vomiting",
+            "left": 644,
+            "right": 782,
+            "top": 1223,
+            "width": 138,
+            "height": 57,
+            "scrollWidth": 208,
+            "clientWidth": 136
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Fainting/confusion",
+            "left": 349,
+            "right": 487,
+            "top": 1223,
+            "width": 138,
+            "height": 57,
+            "scrollWidth": 182,
+            "clientWidth": 136
+          }
+        ],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "profile",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "profile",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Hypertension, Type 2 diabetes",
+            "left": 390,
+            "right": 553,
+            "top": 530,
+            "width": 163,
+            "height": 18,
+            "scrollWidth": 173,
+            "clientWidth": 163
+          }
+        ],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "atlas",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "atlas",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "vitals",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "vitals",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "medications",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "medications",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "labs",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "labs",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [
+          {
+            "tag": "div",
+            "label": "lab-table-wrap",
+            "text": "Marker Value Reference range Status Meaning No report analyzed yet.",
+            "left": 333,
+            "right": 1018,
+            "top": 1658,
+            "width": 685,
+            "height": 102,
+            "scrollWidth": 760,
+            "clientWidth": 685
+          },
+          {
+            "tag": "select",
+            "label": "labTrendStatus",
+            "text": "No previous result First test Stable Improving Worsening",
+            "left": 636,
+            "right": 722,
+            "top": 870,
+            "width": 87,
+            "height": 42,
+            "scrollWidth": 145,
+            "clientWidth": 87
+          },
+          {
+            "tag": "select",
+            "label": "labPanelType",
+            "text": "General panel Diabetes / sugar Cholesterol / heart risk CBC / anemia Kidney / urine Thyroid Liver Electrolytes Vitamins",
+            "left": 346,
+            "right": 433,
+            "top": 870,
+            "width": 87,
+            "height": 42,
+            "scrollWidth": 113,
+            "clientWidth": 87
+          }
+        ],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "wellness",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "wellness",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "6-12",
+            "fontSize": 10.88,
+            "width": 22,
+            "height": 17
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "13-19",
+            "fontSize": 10.88,
+            "width": 26,
+            "height": 17
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "20-59",
+            "fontSize": 10.88,
+            "width": 29,
+            "height": 17
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "60+",
+            "fontSize": 10.88,
+            "width": 20,
+            "height": 17
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Best step",
+            "fontSize": 10.88,
+            "width": 143,
+            "height": 13
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Fuel plan",
+            "fontSize": 10.88,
+            "width": 143,
+            "height": 13
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Stress reset",
+            "fontSize": 10.88,
+            "width": 143,
+            "height": 13
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Guidelines",
+            "fontSize": 10.88,
+            "width": 143,
+            "height": 13
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Check-in",
+            "fontSize": 10.88,
+            "width": 143,
+            "height": 13
+          },
+          {
+            "tag": "span",
+            "label": "SPAN",
+            "text": "Now",
+            "fontSize": 10.88,
+            "width": 508,
+            "height": 17
+          }
+        ],
+        "overlaps": []
+      },
+      {
+        "tab": "appointments",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "appointments",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1152,
+        "activeClientWidth": 1093,
+        "overflow": [
+          {
+            "tag": "section",
+            "label": "workspace-card visit-mode-card",
+            "text": "BookVisit draft PrepareDoctor packet Follow-upTasks DischargeTransition HistoryLocal",
+            "left": 318,
+            "right": 1470,
+            "top": 396,
+            "width": 1152,
+            "height": 92,
+            "scrollWidth": 1150,
+            "clientWidth": 1150
+          },
+          {
+            "tag": "section",
+            "label": "workspace-card visit-slots-card",
+            "text": "Planning Options Jun 29, 09:10 AMPrimary care - In personBest match for this week and in person. Ask the clinic about cost check n",
+            "left": 1080,
+            "right": 1470,
+            "top": 504,
+            "width": 390,
+            "height": 399,
+            "scrollWidth": 388,
+            "clientWidth": 388
+          },
+          {
+            "tag": "section",
+            "label": "workspace-card visit-queue-card",
+            "text": "Local Visit History No appointment drafts yet.",
+            "left": 1080,
+            "right": 1470,
+            "top": 1756,
+            "width": 390,
+            "height": 126,
+            "scrollWidth": 388,
+            "clientWidth": 388
+          },
+          {
+            "tag": "button",
+            "label": "BUTTON",
+            "text": "HistoryLocal",
+            "left": 1240,
+            "right": 1457,
+            "top": 409,
+            "width": 217,
+            "height": 66,
+            "scrollWidth": 215,
+            "clientWidth": 215
+          },
+          {
+            "tag": "div",
+            "label": "workspace-card-heading",
+            "text": "Planning Options",
+            "left": 1095,
+            "right": 1455,
+            "top": 519,
+            "width": 360,
+            "height": 36,
+            "scrollWidth": 360,
+            "clientWidth": 360
+          },
+          {
+            "tag": "div",
+            "label": "visitSlotList",
+            "text": "Jun 29, 09:10 AMPrimary care - In personBest match for this week and in person. Ask the clinic about cost check needed.Jul 6, 10:3",
+            "left": 1095,
+            "right": 1455,
+            "top": 567,
+            "width": 360,
+            "height": 321,
+            "scrollWidth": 360,
+            "clientWidth": 360
+          },
+          {
+            "tag": "button",
+            "label": "visit-slot-card is-selected",
+            "text": "Jun 29, 09:10 AMPrimary care - In personBest match for this week and in person. Ask the clinic about cost check needed.",
+            "left": 1095,
+            "right": 1455,
+            "top": 566,
+            "width": 360,
+            "height": 112,
+            "scrollWidth": 358,
+            "clientWidth": 358
+          },
+          {
+            "tag": "button",
+            "label": "visit-slot-card",
+            "text": "Jul 6, 10:30 AMPrimary care - In personBackup option if the first slot is not available.",
+            "left": 1095,
+            "right": 1455,
+            "top": 689,
+            "width": 360,
+            "height": 95,
+            "scrollWidth": 358,
+            "clientWidth": 358
+          },
+          {
+            "tag": "button",
+            "label": "visit-slot-card",
+            "text": "Jul 13, 11:45 AMPrimary care - In personLater option for stable follow-up.",
+            "left": 1095,
+            "right": 1455,
+            "top": 794,
+            "width": 360,
+            "height": 95,
+            "scrollWidth": 358,
+            "clientWidth": 358
+          },
+          {
+            "tag": "div",
+            "label": "workspace-card-heading",
+            "text": "Local Visit History",
+            "left": 1095,
+            "right": 1455,
+            "top": 1771,
+            "width": 360,
+            "height": 36,
+            "scrollWidth": 360,
+            "clientWidth": 360
+          },
+          {
+            "tag": "ul",
+            "label": "visitQueue",
+            "text": "No appointment drafts yet.",
+            "left": 1095,
+            "right": 1455,
+            "top": 1819,
+            "width": 360,
+            "height": 48,
+            "scrollWidth": 360,
+            "clientWidth": 360
+          },
+          {
+            "tag": "li",
+            "label": "visit-queue-empty",
+            "text": "No appointment drafts yet.",
+            "left": 1095,
+            "right": 1455,
+            "top": 1819,
+            "width": 360,
+            "height": 48,
+            "scrollWidth": 355,
+            "clientWidth": 355
+          }
+        ],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "safety",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "safety",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [
+          {
+            "tag": "section",
+            "label": "workspace-card safety-console-card safety-wide-card",
+            "text": "Safety Check Console Ready What is happening now? Duration Not sure Today 1-3 days Over a week Sudden onset Severity Mild Moderate",
+            "left": 688,
+            "right": 1411,
+            "top": 396,
+            "width": 723,
+            "height": 1038,
+            "scrollWidth": 791,
+            "clientWidth": 721
+          },
+          {
+            "tag": "section",
+            "label": "workspace-card safety-output-card safety-wide-card",
+            "text": "Safety Net Output Ready for a safety reviewAdd the concern, warning signs, medicine risk, and support status. Care Nova will retur",
+            "left": 318,
+            "right": 1041,
+            "top": 1450,
+            "width": 723,
+            "height": 506,
+            "scrollWidth": 791,
+            "clientWidth": 721
+          },
+          {
+            "tag": "select",
+            "label": "safetyPregnancy",
+            "text": "Not relevant / not entered Pregnant Recently postpartum Possible pregnancy",
+            "left": 715,
+            "right": 855,
+            "top": 1010,
+            "width": 140,
+            "height": 42,
+            "scrollWidth": 202,
+            "clientWidth": 138
+          }
+        ],
+        "clipped": [
+          {
+            "tag": "section",
+            "label": "workspace-card safety-console-card safety-wide-card",
+            "text": "Safety Check Console Ready What is happening now? Duration Not sure Today 1-3 days Over a week Sudden onset Severity Mild Moderate",
+            "width": 723,
+            "height": 1038,
+            "scrollHeight": 1126,
+            "clientHeight": 1036,
+            "overflow": "hidden",
+            "overflowY": "hidden",
+            "whiteSpace": "normal",
+            "lineHeight": "23.56px"
+          },
+          {
+            "tag": "section",
+            "label": "workspace-card safety-output-card safety-wide-card",
+            "text": "Safety Net Output Ready for a safety reviewAdd the concern, warning signs, medicine risk, and support status. Care Nova will retur",
+            "width": 723,
+            "height": 506,
+            "scrollHeight": 594,
+            "clientHeight": 504,
+            "overflow": "hidden",
+            "overflowY": "hidden",
+            "whiteSpace": "normal",
+            "lineHeight": "23.56px"
+          }
+        ],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "records",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "records",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [
+          {
+            "tag": "input",
+            "label": "recordTags",
+            "text": "diabetes, labs, cholesterol, doctor-review",
+            "left": 637,
+            "right": 929,
+            "top": 645,
+            "width": 292,
+            "height": 42,
+            "scrollWidth": 313,
+            "clientWidth": 292
+          }
+        ],
+        "clipped": [],
+        "tinyText": [
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "92% complete",
+            "fontSize": 10.72,
+            "width": 90,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Medicine reconciliation",
+            "fontSize": 10.72,
+            "width": 136,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Local entry",
+            "fontSize": 10.72,
+            "width": 73,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "100% complete",
+            "fontSize": 10.72,
+            "width": 94,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Lab review",
+            "fontSize": 10.72,
+            "width": 72,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Lab report",
+            "fontSize": 10.72,
+            "width": 71,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "100% complete",
+            "fontSize": 10.72,
+            "width": 94,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Lab review",
+            "fontSize": 10.72,
+            "width": 72,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Lab report",
+            "fontSize": 10.72,
+            "width": 71,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "91% complete",
+            "fontSize": 10.72,
+            "width": 88,
+            "height": 26
+          }
+        ],
+        "overlaps": []
+      },
+      {
+        "tab": "insurance",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "insurance",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "dashboard",
+        "viewport": "desktop",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "dashboard",
+        "innerWidth": 1440,
+        "innerHeight": 920,
+        "docScrollWidth": 1425,
+        "bodyScrollWidth": 1568,
+        "activeScrollWidth": 1093,
+        "activeClientWidth": 1093,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "tabs": [
+      {
+        "key": "advisor",
+        "label": "General"
+      },
+      {
+        "key": "specialist",
+        "label": "Specialist"
+      },
+      {
+        "key": "profile",
+        "label": "Profile"
+      },
+      {
+        "key": "atlas",
+        "label": "Atlas"
+      },
+      {
+        "key": "vitals",
+        "label": "Vitals"
+      },
+      {
+        "key": "medications",
+        "label": "Medicine"
+      },
+      {
+        "key": "labs",
+        "label": "Labs"
+      },
+      {
+        "key": "wellness",
+        "label": "Wellness"
+      },
+      {
+        "key": "appointments",
+        "label": "Visits"
+      },
+      {
+        "key": "safety",
+        "label": "Safety"
+      },
+      {
+        "key": "records",
+        "label": "Records"
+      },
+      {
+        "key": "insurance",
+        "label": "Insurance"
+      },
+      {
+        "key": "dashboard",
+        "label": "Summary"
+      }
+    ],
+    "results": [
+      {
+        "tab": "advisor",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "advisor",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Chest pain",
+            "left": 57,
+            "right": 333,
+            "top": 2001,
+            "width": 277,
+            "height": 78,
+            "scrollWidth": 281,
+            "clientWidth": 277
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Breathing trouble",
+            "left": 57,
+            "right": 333,
+            "top": 2078,
+            "width": 277,
+            "height": 78,
+            "scrollWidth": 281,
+            "clientWidth": 277
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Fainting",
+            "left": 57,
+            "right": 333,
+            "top": 2156,
+            "width": 277,
+            "height": 78,
+            "scrollWidth": 281,
+            "clientWidth": 277
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "One-sided weakness",
+            "left": 57,
+            "right": 333,
+            "top": 2233,
+            "width": 277,
+            "height": 78,
+            "scrollWidth": 281,
+            "clientWidth": 277
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Severe allergy",
+            "left": 57,
+            "right": 333,
+            "top": 2311,
+            "width": 277,
+            "height": 78,
+            "scrollWidth": 281,
+            "clientWidth": 277
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Rapid worsening",
+            "left": 57,
+            "right": 333,
+            "top": 2388,
+            "width": 277,
+            "height": 78,
+            "scrollWidth": 281,
+            "clientWidth": 277
+          }
+        ],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "specialist",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "specialist",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Blood thinner",
+            "left": 252,
+            "right": 345,
+            "top": 3084,
+            "width": 93,
+            "height": 57,
+            "scrollWidth": 97,
+            "clientWidth": 91
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Immune risk",
+            "left": 148,
+            "right": 242,
+            "top": 3084,
+            "width": 93,
+            "height": 57,
+            "scrollWidth": 104,
+            "clientWidth": 91
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Diabetes",
+            "left": 45,
+            "right": 138,
+            "top": 3017,
+            "width": 93,
+            "height": 57,
+            "scrollWidth": 107,
+            "clientWidth": 91
+          },
+          {
+            "tag": "label",
+            "label": "LABEL",
+            "text": "Pregnancy",
+            "left": 45,
+            "right": 138,
+            "top": 3084,
+            "width": 93,
+            "height": 57,
+            "scrollWidth": 121,
+            "clientWidth": 91
+          }
+        ],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "profile",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "profile",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "atlas",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "atlas",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "vitals",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "vitals",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "medications",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "medications",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "labs",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "labs",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [
+          {
+            "tag": "table",
+            "label": "lab-marker-table",
+            "text": "Marker Value Reference range Status Meaning No report analyzed yet.",
+            "left": 29,
+            "right": 789,
+            "top": 4168,
+            "width": 760,
+            "height": 87,
+            "scrollWidth": 760,
+            "clientWidth": 760
+          },
+          {
+            "tag": "thead",
+            "label": "THEAD",
+            "text": "Marker Value Reference range Status Meaning",
+            "left": 29,
+            "right": 789,
+            "top": 4176,
+            "width": 760,
+            "height": 20,
+            "scrollWidth": 760,
+            "clientWidth": 760
+          },
+          {
+            "tag": "tr",
+            "label": "TR",
+            "text": "Marker Value Reference range Status Meaning",
+            "left": 29,
+            "right": 789,
+            "top": 4176,
+            "width": 760,
+            "height": 20,
+            "scrollWidth": 760,
+            "clientWidth": 760
+          },
+          {
+            "tag": "th",
+            "label": "TH",
+            "text": "Meaning",
+            "left": 641,
+            "right": 789,
+            "top": 4176,
+            "width": 148,
+            "height": 20,
+            "scrollWidth": 148,
+            "clientWidth": 148
+          },
+          {
+            "tag": "tbody",
+            "label": "labMarkerTable",
+            "text": "No report analyzed yet.",
+            "left": 29,
+            "right": 789,
+            "top": 4204,
+            "width": 760,
+            "height": 43,
+            "scrollWidth": 760,
+            "clientWidth": 760
+          },
+          {
+            "tag": "tr",
+            "label": "TR",
+            "text": "No report analyzed yet.",
+            "left": 29,
+            "right": 789,
+            "top": 4204,
+            "width": 760,
+            "height": 43,
+            "scrollWidth": 760,
+            "clientWidth": 760
+          },
+          {
+            "tag": "td",
+            "label": "TD",
+            "text": "No report analyzed yet.",
+            "left": 29,
+            "right": 789,
+            "top": 4204,
+            "width": 760,
+            "height": 43,
+            "scrollWidth": 758,
+            "clientWidth": 758
+          },
+          {
+            "tag": "th",
+            "label": "TH",
+            "text": "Status",
+            "left": 529,
+            "right": 641,
+            "top": 4176,
+            "width": 112,
+            "height": 20,
+            "scrollWidth": 112,
+            "clientWidth": 112
+          },
+          {
+            "tag": "th",
+            "label": "TH",
+            "text": "Reference range",
+            "left": 254,
+            "right": 529,
+            "top": 4176,
+            "width": 274,
+            "height": 20,
+            "scrollWidth": 274,
+            "clientWidth": 274
+          },
+          {
+            "tag": "div",
+            "label": "lab-table-wrap",
+            "text": "Marker Value Reference range Status Meaning No report analyzed yet.",
+            "left": 29,
+            "right": 361,
+            "top": 4168,
+            "width": 332,
+            "height": 87,
+            "scrollWidth": 760,
+            "clientWidth": 332
+          }
+        ],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "wellness",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "wellness",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "6-12",
+            "fontSize": 10.88,
+            "width": 22,
+            "height": 17
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "13-19",
+            "fontSize": 10.88,
+            "width": 26,
+            "height": 17
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "20-59",
+            "fontSize": 10.88,
+            "width": 29,
+            "height": 17
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "60+",
+            "fontSize": 10.88,
+            "width": 20,
+            "height": 17
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Best step",
+            "fontSize": 10.88,
+            "width": 270,
+            "height": 13
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Fuel plan",
+            "fontSize": 10.88,
+            "width": 270,
+            "height": 13
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Stress reset",
+            "fontSize": 10.88,
+            "width": 270,
+            "height": 13
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Guidelines",
+            "fontSize": 10.88,
+            "width": 270,
+            "height": 13
+          },
+          {
+            "tag": "small",
+            "label": "SMALL",
+            "text": "Check-in",
+            "fontSize": 10.88,
+            "width": 270,
+            "height": 13
+          },
+          {
+            "tag": "span",
+            "label": "SPAN",
+            "text": "Now",
+            "fontSize": 10.88,
+            "width": 142,
+            "height": 17
+          }
+        ],
+        "overlaps": []
+      },
+      {
+        "tab": "appointments",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "appointments",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "safety",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "safety",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [
+          {
+            "tag": "section",
+            "label": "workspace-card safety-console-card safety-wide-card",
+            "text": "Safety Check Console Ready What is happening now? Duration Not sure Today 1-3 days Over a week Sudden onset Severity Mild Moderate",
+            "left": 12,
+            "right": 378,
+            "top": 1615,
+            "width": 366,
+            "height": 2452,
+            "scrollWidth": 434,
+            "clientWidth": 364
+          },
+          {
+            "tag": "section",
+            "label": "workspace-card safety-output-card safety-wide-card",
+            "text": "Safety Net Output Ready for a safety reviewAdd the concern, warning signs, medicine risk, and support status. Care Nova will retur",
+            "left": 12,
+            "right": 378,
+            "top": 4081,
+            "width": 366,
+            "height": 790,
+            "scrollWidth": 434,
+            "clientWidth": 364
+          }
+        ],
+        "clipped": [
+          {
+            "tag": "section",
+            "label": "workspace-card safety-console-card safety-wide-card",
+            "text": "Safety Check Console Ready What is happening now? Duration Not sure Today 1-3 days Over a week Sudden onset Severity Mild Moderate",
+            "width": 366,
+            "height": 2452,
+            "scrollHeight": 2540,
+            "clientHeight": 2450,
+            "overflow": "hidden",
+            "overflowY": "hidden",
+            "whiteSpace": "normal",
+            "lineHeight": "23.56px"
+          },
+          {
+            "tag": "section",
+            "label": "workspace-card safety-output-card safety-wide-card",
+            "text": "Safety Net Output Ready for a safety reviewAdd the concern, warning signs, medicine risk, and support status. Care Nova will retur",
+            "width": 366,
+            "height": 790,
+            "scrollHeight": 878,
+            "clientHeight": 788,
+            "overflow": "hidden",
+            "overflowY": "hidden",
+            "whiteSpace": "normal",
+            "lineHeight": "23.56px"
+          }
+        ],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "records",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "records",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "92% complete",
+            "fontSize": 10.72,
+            "width": 90,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Medicine reconciliation",
+            "fontSize": 10.72,
+            "width": 136,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Local entry",
+            "fontSize": 10.72,
+            "width": 73,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "100% complete",
+            "fontSize": 10.72,
+            "width": 94,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Lab review",
+            "fontSize": 10.72,
+            "width": 72,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Lab report",
+            "fontSize": 10.72,
+            "width": 71,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "100% complete",
+            "fontSize": 10.72,
+            "width": 94,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Lab review",
+            "fontSize": 10.72,
+            "width": 72,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "Lab report",
+            "fontSize": 10.72,
+            "width": 71,
+            "height": 26
+          },
+          {
+            "tag": "em",
+            "label": "EM",
+            "text": "91% complete",
+            "fontSize": 10.72,
+            "width": 88,
+            "height": 26
+          }
+        ],
+        "overlaps": []
+      },
+      {
+        "tab": "insurance",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "insurance",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      },
+      {
+        "tab": "dashboard",
+        "viewport": "mobile",
+        "title": "Care Nova AI | Healthcare Advisor",
+        "active": "dashboard",
+        "innerWidth": 390,
+        "innerHeight": 844,
+        "docScrollWidth": 390,
+        "bodyScrollWidth": 390,
+        "activeScrollWidth": 390,
+        "activeClientWidth": 390,
+        "overflow": [],
+        "clipped": [],
+        "tinyText": [],
+        "overlaps": []
+      }
+    ]
+  }
+]

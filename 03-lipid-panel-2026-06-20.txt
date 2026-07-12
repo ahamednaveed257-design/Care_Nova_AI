@@ -1,0 +1,11 @@
+Patient: Naveed QA
+Report date: 2026-06-20
+Panel: Lipid profile
+Fasting sample
+Total cholesterol 245 mg/dL (<200)
+LDL 160 mg/dL (<100)
+HDL 38 mg/dL (>40)
+Triglycerides 210 mg/dL (<150)
+Non-HDL cholesterol 207 mg/dL (<130)
+Symptoms: heart-risk review, routine prevention visit
+Medicines: statin not listed

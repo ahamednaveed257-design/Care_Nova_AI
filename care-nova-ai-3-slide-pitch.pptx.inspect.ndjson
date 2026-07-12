@@ -1,0 +1,77 @@
+{"kind":"deck","id":"pr/qlmcvk","name":"Deck"}
+{"kind":"layout","layoutId":"a177f593-2ca0-4d54-9245-3af0d9093390","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"d07478f8-6a0b-4971-ba32-eccf423b8ae9","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/sjve29","slide":1,"title":"CARE NOVA AI","textShapes":11}
+{"kind":"textbox","id":"sh/1cfa9w3m","slide":1,"name":"cover-brand","text":"CARE NOVA AI","textPreview":"CARE NOVA AI","textChars":12,"textLines":1,"bbox":[72,54,260,24]}
+{"kind":"textbox","id":"sh/ulwval87","slide":1,"name":"cover-title","text":"From fragmented patient data to one safe next step.","textPreview":"From fragmented patient data to one safe next step.","textChars":51,"textLines":1,"bbox":[72,98,470,92]}
+{"kind":"textbox","id":"sh/j6tovaho","slide":1,"name":"cover-subtitle","text":"Local-first multi-agent healthcare AI for symptoms, medicines, labs, records, and guided next-step support.","textPreview":"Local-first multi-agent healthcare AI for symptoms, medicines, labs, records, and guided next-step support.","textChars":107,"textLines":1,"bbox":[72,214,470,88]}
+{"kind":"shape","id":"sh/c3ylc7u5","slide":1,"name":"cover-proof-marker-338","bbox":[72,344,14,14]}
+{"kind":"textbox","id":"sh/1kre1w7m","slide":1,"name":"cover-proof-text-338","text":"Local-first privacy","textPreview":"Local-first privacy","textChars":19,"textLines":1,"bbox":[100,338,350,26]}
+{"kind":"shape","id":"sh/uxc3ylc7","slide":1,"name":"cover-proof-marker-382","bbox":[72,388,14,14]}
+{"kind":"textbox","id":"sh/ji5snelo","slide":1,"name":"cover-proof-text-382","text":"Specialist agent routing","textPreview":"Specialist agent routing","textChars":24,"textLines":1,"bbox":[100,382,350,26]}
+{"kind":"shape","id":"sh/8bat47y1","slide":1,"name":"cover-proof-marker-426","bbox":[72,432,14,14]}
+{"kind":"textbox","id":"sh/1w7mp0bi","slide":1,"name":"cover-proof-text-426","text":"Evidence-grounded and safety-checked","textPreview":"Evidence-grounded and safety-checked","textChars":36,"textLines":1,"bbox":[100,426,350,26]}
+{"kind":"shape","id":"sh/d0z61032","slide":1,"name":"cover-callout","bbox":[72,508,470,96]}
+{"kind":"shape","id":"sh/kf6dcbul","slide":1,"name":"cover-callout-accent","bbox":[72,508,10,96]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":1,"name":"cover-callout-title","text":"Built for healthcare, not generic chat.","textPreview":"Built for healthcare, not generic chat.","textChars":39,"textLines":1,"bbox":[96,528,420,30]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":1,"name":"cover-callout-body","text":"Memory, specialist routing, retrieval, and guardrails work before the reply.","textPreview":"Memory, specialist routing, retrieval, and guardrails work before the reply.","textChars":76,"textLines":1,"bbox":[96,562,420,22]}
+{"kind":"shape","id":"sh/d8bat47y","slide":1,"name":"cover-image-back","bbox":[666,88,520,430]}
+{"kind":"shape","id":"sh/knih4byh","slide":1,"name":"cover-image-frame","bbox":[626,58,560,500]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":1,"name":"cover-image-tag","text":"LIVE PRODUCT VIEW","textPreview":"LIVE PRODUCT VIEW","textChars":17,"textLines":1,"bbox":[966,574,204,22]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":1,"name":"cover-caption","text":"Memory, risk, specialist routes, and the guided answer flow in one workspace.","textPreview":"Memory, risk, specialist routes, and the guided answer flow in one workspace.","textChars":77,"textLines":1,"bbox":[734,602,436,24]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":1,"name":"cover-footer","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[1184,659,54,25]}
+{"kind":"image","id":"im/c3ylc7u5","slide":1,"name":"","geometry":"roundRect","alt":"Care Nova AI interface screenshot","bbox":[642,74,528,468]}
+{"kind":"notes","id":"nt/sjve29","slide":1,"text":""}
+{"kind":"slide","id":"sl/xw7g8l","slide":2,"title":"AGENTIC WORKFLOW","textShapes":14}
+{"kind":"textbox","id":"sh/nyd0z610","slide":2,"name":"workflow-label","text":"AGENTIC WORKFLOW","textPreview":"AGENTIC WORKFLOW","textChars":16,"textLines":1,"bbox":[72,54,260,24]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":2,"name":"workflow-title","text":"It reasons in stages before it answers.","textPreview":"It reasons in stages before it answers.","textChars":39,"textLines":1,"bbox":[72,94,900,64]}
+{"kind":"textbox","id":"sh/54zidony","slide":2,"name":"workflow-strip","text":"Input  |  Local memory  |  Intent route  |  RAG evidence  |  Safety check  |  Next step","textPreview":"Input  |  Local memory  |  Intent route  |  RAG evidence  |  Safety check  |  Next step","textChars":87,"textLines":1,"bbox":[72,176,1136,26]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":2,"name":"workflow-card-1","bbox":[72,234,354,298]}
+{"kind":"shape","id":"sh/nap4r65w","slide":2,"name":"workflow-marker-1","bbox":[100,262,40,28]}
+{"kind":"textbox","id":"sh/cvixczed","slide":2,"name":"workflow-card-number-1","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[100,267,40,16]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":2,"name":"workflow-card-title-1","text":"Understand the case","textPreview":"Understand the case","textChars":19,"textLines":1,"bbox":[100,320,298,56]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":2,"name":"workflow-card-body-1","text":"Reads the patient question and reloads the local patient context.","textPreview":"Reads the patient question and reloads the local patient context.","textChars":65,"textLines":1,"bbox":[100,392,298,92]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":2,"name":"workflow-card-2","bbox":[463,234,354,298]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":2,"name":"workflow-marker-2","bbox":[491,262,40,28]}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":2,"name":"workflow-card-number-2","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[491,267,40,16]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":2,"name":"workflow-card-title-2","text":"Route with evidence","textPreview":"Route with evidence","textChars":19,"textLines":1,"bbox":[491,320,298,56]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":2,"name":"workflow-card-body-2","text":"Classifies intent, selects the right agent, and retrieves grounded evidence.","textPreview":"Classifies intent, selects the right agent, and retrieves grounded evidence.","textChars":76,"textLines":1,"bbox":[491,392,298,92]}
+{"kind":"shape","id":"sh/byhgn29g","slide":2,"name":"workflow-card-3","bbox":[854,234,354,298]}
+{"kind":"shape","id":"sh/idonyd0z","slide":2,"name":"workflow-marker-3","bbox":[882,262,40,28]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":2,"name":"workflow-card-number-3","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[882,267,40,16]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":2,"name":"workflow-card-title-3","text":"Answer safely","textPreview":"Answer safely","textChars":13,"textLines":1,"bbox":[882,320,298,56]}
+{"kind":"textbox","id":"sh/bulwval8","slide":2,"name":"workflow-card-body-3","text":"Checks risk, blocks unsafe wording, and returns one focused next step.","textPreview":"Checks risk, blocks unsafe wording, and returns one focused next step.","textChars":70,"textLines":1,"bbox":[882,392,298,92]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":2,"name":"workflow-band","bbox":[72,582,1136,72]}
+{"kind":"textbox","id":"sh/6xkf6dcb","slide":2,"name":"workflow-band-text","text":"This staged flow makes Care Nova agentic, grounded, and safer than one-pass chat.","textPreview":"This staged flow makes Care Nova agentic, grounded, and safer than one-pass chat.","textChars":81,"textLines":1,"bbox":[104,605,1072,24]}
+{"kind":"textbox","id":"sh/zed8v6ps","slide":2,"name":"workflow-footer","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[1184,659,54,25]}
+{"kind":"notes","id":"nt/xw7g8l","slide":2,"text":""}
+{"kind":"slide","id":"sl/cs0adm","slide":3,"title":"WHY IT STANDS OUT","textShapes":16}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":3,"name":"differentiator-label","text":"WHY IT STANDS OUT","textPreview":"WHY IT STANDS OUT","textChars":17,"textLines":1,"bbox":[72,54,260,24]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":3,"name":"differentiator-title","text":"This is a governed healthcare system, not a normal chatbot.","textPreview":"This is a governed healthcare system, not a normal chatbot.","textChars":59,"textLines":1,"bbox":[72,94,760,64]}
+{"kind":"shape","id":"sh/29gr2p8n","slide":3,"name":"compare-left","bbox":[72,198,508,286]}
+{"kind":"shape","id":"sh/d8bat47y","slide":3,"name":"compare-right","bbox":[628,198,580,286]}
+{"kind":"textbox","id":"sh/knih4byh","slide":3,"name":"compare-left-title","text":"Generic chatbot","textPreview":"Generic chatbot","textChars":15,"textLines":1,"bbox":[104,230,220,32]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":3,"name":"compare-right-title","text":"Care Nova AI","textPreview":"Care Nova AI","textChars":12,"textLines":1,"bbox":[660,230,240,32]}
+{"kind":"shape","id":"sh/2lszqtcj","slide":3,"name":"left-bullet-dot-1","bbox":[106,290,12,12]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":3,"name":"left-bullet-text-1","text":"One broad answer path","textPreview":"One broad answer path","textChars":21,"textLines":1,"bbox":[134,282,390,28]}
+{"kind":"shape","id":"sh/kre1w7mp","slide":3,"name":"left-bullet-dot-2","bbox":[106,346,12,12]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":3,"name":"left-bullet-text-2","text":"Little patient continuity","textPreview":"Little patient continuity","textChars":25,"textLines":1,"bbox":[134,338,390,28]}
+{"kind":"shape","id":"sh/val87ed8","slide":3,"name":"left-bullet-dot-3","bbox":[106,402,12,12]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":3,"name":"left-bullet-text-3","text":"Weak healthcare boundaries","textPreview":"Weak healthcare boundaries","textChars":26,"textLines":1,"bbox":[134,394,390,28]}
+{"kind":"shape","id":"sh/dcbulwva","slide":3,"name":"right-bullet-dot-1","bbox":[662,290,12,12]}
+{"kind":"textbox","id":"sh/2x4nap4r","slide":3,"name":"right-bullet-text-1","text":"Remembers local patient context","textPreview":"Remembers local patient context","textChars":31,"textLines":1,"bbox":[690,282,470,26]}
+{"kind":"shape","id":"sh/vixczed8","slide":3,"name":"right-bullet-dot-2","bbox":[662,336,12,12]}
+{"kind":"textbox","id":"sh/k3q5o7qp","slide":3,"name":"right-bullet-text-2","text":"Routes to the right specialist agent","textPreview":"Routes to the right specialist agent","textChars":36,"textLines":1,"bbox":[690,328,470,26]}
+{"kind":"shape","id":"sh/donyd0z6","slide":3,"name":"right-bullet-dot-3","bbox":[662,382,12,12]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":3,"name":"right-bullet-text-3","text":"Uses retrieval before the answer","textPreview":"Uses retrieval before the answer","textChars":32,"textLines":1,"bbox":[690,374,470,26]}
+{"kind":"shape","id":"sh/vu9knih4","slide":3,"name":"right-bullet-dot-4","bbox":[662,428,12,12]}
+{"kind":"textbox","id":"sh/judg7ads","slide":3,"name":"right-bullet-text-4","text":"Applies safety checks before the reply","textPreview":"Applies safety checks before the reply","textChars":38,"textLines":1,"bbox":[690,420,470,26]}
+{"kind":"shape","id":"sh/u9knih4b","slide":3,"name":"value-band","bbox":[72,544,1136,104]}
+{"kind":"textbox","id":"sh/1032lszq","slide":3,"name":"value-left","text":"Faster triage","textPreview":"Faster triage","textChars":13,"textLines":1,"bbox":[110,574,250,42]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":3,"name":"value-middle","text":"Consistent guidance","textPreview":"Consistent guidance","textChars":19,"textLines":1,"bbox":[515,574,250,42]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":3,"name":"value-right","text":"Privacy by default","textPreview":"Privacy by default","textChars":18,"textLines":1,"bbox":[876,574,250,42]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":3,"name":"value-divider-1","bbox":[428,562,1,68]}
+{"kind":"shape","id":"sh/1orytsvu","slide":3,"name":"value-divider-2","bbox":[832,562,1,68]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":3,"name":"differentiator-footer-note","text":"Demo scope: governed assistant system with healthcare safety boundaries.","textPreview":"Demo scope: governed assistant system with healthcare safety boundaries.","textChars":72,"textLines":1,"bbox":[72,664,860,20]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":3,"name":"differentiator-footer-page","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[1184,659,54,25]}
+{"kind":"notes","id":"nt/cs0adm","slide":3,"text":""}
